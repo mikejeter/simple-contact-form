@@ -1,2 +1,2 @@
 # simple-contact-form
-# simple-contact-form
+# WordPress Plugin
